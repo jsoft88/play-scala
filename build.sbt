@@ -10,7 +10,5 @@ libraryDependencies += jdbc
 libraryDependencies += cache
 libraryDependencies += ws
 libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "1.5.1" % Test
-libraryDependencies += jdbc
 libraryDependencies += "com.typesafe.play" %% "anorm" % "2.5.0"
-
 
